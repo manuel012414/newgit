@@ -1,0 +1,18 @@
+
+#header {border:thin solid black; }
+#content {border: thin solid red; }
+
+#content-left {
+  border: 2px  solid green;
+float: left;
+width: 80%;
+}
+
+#content-right {border: 2px  black;
+  float: right;
+  width: 10%
+
+}
+#footer {border: 3px solid blue;}
+
+.clearfix{clear :both;}
